@@ -1,9 +1,9 @@
-# How to install papyrus-gui
+### How to install papyrus-gui
 First off, [download papyrus.cs](https://github.com/mjungnickel18/papyruscs/releases) or [papyrus.js](https://github.com/clarkx86/papyrusjs/releases) and unzip it somewhere you can find it again. Then, [download papyrus-gui](https://github.com/clarkx86/papyrus-gui/releases) and also unzip that. Now you can open papyrus-gui.exe (you might get a security warning from Windows Defender, just click "Show more" and "Do it anyway"). You should see something simular to this:
 
 ![Startscreen of papyrus.gui](https://i.ibb.co/4d5tL61/Aantekening-2019-12-17-142545.png)
 
-## How to use papyrus-gui
+### How to use papyrus-gui
 Next click the button that says "Configure" to select the papyrus instance that you unzipped earlier. You should see something similar to the screenshot below. Click "Browse" and go to the unzipped map and select the .exe file. The "Invalid" next to the "Browse" button should change to "Ok!" if it's the correct file. On this screen you can configure some more things, but that isn't necessary for now so we'll just close this window.
 
 ![Configure screen](https://i.ibb.co/zrVXcQZ/Aantekening-2019-12-17-143130.png)
